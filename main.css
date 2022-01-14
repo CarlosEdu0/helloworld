@@ -1,7 +1,26 @@
-#word{
-    color: coral;
+*{
+    margin: 0%;
+    box-sizing: border-box;
 }
-.tittle2{
-color: coral;
+body{
+    min-height: 100vh;
+}
+.titulo{
+    text-align: center;
+}
+.meunome{
+    text-align: center;
+}
 
+#botão{
+    text-align: right;
+}
+.box{
+    text-align: left;
+}
+.imagem{
+    text-align: center;
+}
+#lol{
+    width: 150px;
 }
